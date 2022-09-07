@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    :  "dark" # "air", "aqua", "contrast", "default" , "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -20,7 +20,7 @@ title                    : "수원농부의 기억저장소"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "수원농부"
-description              : "이제 뇌는 믿을 수가 없게 됐다. 기억을 담아놓을 다른 저장소가 필요하다."
+description              : "이제 뇌는 믿을 수가 없게 됐다. 기억을 담아 놓을 다른 저장소가 필요하다."
 url                      : "https://suwonfarmer.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "suwonfarmer/suwonfarmer.github.io"
@@ -29,6 +29,7 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+date_format              : "%Y-%m-%d"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -287,6 +288,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      show_date: true
