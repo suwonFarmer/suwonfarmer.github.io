@@ -107,8 +107,8 @@ analytics:
 author:
   name             : "suwonFarmer"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "groomy brain"
-  location         : "Somewhere"
+  bio              : ""
+  location         : ""
   email            :
   links:
     - label: "Email"
