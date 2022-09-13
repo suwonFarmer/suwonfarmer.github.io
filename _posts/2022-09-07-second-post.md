@@ -12,6 +12,9 @@
 폰트는 카페24 고운밤 폰트가 괜찮아 보인다.
 assets/css/main.scss에 설정하면 되는 듯?
 
+### SEO
+google search console:  
+sitemap을 먼저 작성해 두고 [inasie][1] 따라서 해 보자  
 
 ```css
 // "Cafe24Oneprettynight"
@@ -26,3 +29,4 @@ assets/css/main.scss에 설정하면 되는 듯?
 }
 ```
 
+[1]:https://inasie.github.io/it%EC%9D%BC%EB%B0%98/3/
