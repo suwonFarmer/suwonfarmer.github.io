@@ -8,8 +8,4 @@ tags:
 
 자 이제 잘 나오는지 보겠습니다.
 
-![alt text][singo1]나는나
-
-
-
-[singo1]:../images/51202868726_9edcedc2cf_o.jpg
+![테스트이미지](/images/51202868726_9edcedc2cf_o.jpg)
