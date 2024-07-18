@@ -12,4 +12,4 @@ tags:
 
 
 
-[singo1]:51202868726_9edcedc2cf_o.jpg
+[singo1]:../images/51202868726_9edcedc2cf_o.jpg
